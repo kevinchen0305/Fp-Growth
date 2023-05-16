@@ -284,20 +284,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-/*
-cout << "Root: " << Root->item  << " " << Root->count << endl;
-cout << Root->children[0]->item << ":" << Root->children[0]->count << endl;
-cout << Root->children[1]->item << ":" << Root->children[1]->count << endl;
-//cout << Root->children[2]->item << ":" << Root->children[2]->count << endl;
-cout << Root->children[0]->children[0]->item << ":" << Root->children[0]->children[0]->count << endl;
-//cout << Root->children[0]->children[1]->item << ":" << Root->children[0]->children[1]->count << endl;
-cout << Root->children[0]->children[0]->children[0]->item << ":" << Root->children[0]->children[0]->children[0]->count << endl;
-cout << Root->children[0]->children[0]->children[1]->item << ":" << Root->children[0]->children[0]->children[1]->count << endl;
-cout << Root->children[0]->children[0]->children[2]->item << ":" << Root->children[0]->children[0]->children[2]->count << endl;
-
-cout << Root->children[0]->children[0]->children[0]->children[0]->item << ":" << Root->children[0]->children[0]->children[0]->children[0]->count << endl;
-cout << Root->children[0]->children[0]->children[0]->children[1]->item << ":" << Root->children[0]->children[0]->children[0]->children[1]->count << endl;
-
-cout << Root->children[0]->children[0]->children[0]->children[0]->children[0]->item << ":" << Root->children[0]->children[0]->children[0]->children[0]->children[0]->count << endl;
-cout << Root->children[0]->children[0]->children[0]->children[1]->children[0]->item << ":" << Root->children[0]->children[0]->children[0]->children[1]->children[0]->count << endl;
-*/
